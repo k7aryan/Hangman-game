@@ -2,4 +2,4 @@
 
 A SIMPLE SNAKE GAME 
 
-paste the code in your code editor and play!!!
+paste the code in your code editor and play!!!!
