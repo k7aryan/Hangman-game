@@ -1,5 +1,5 @@
-# snakes-game
+# Hangman-game
 
-A SIMPLE SNAKE GAME 
+Retro Hangman Game with some ANIME TWIST <3 
 
-paste the code in your code editor and play!!!!
+paste the code in your code editor and play or maybe i will deploy it some day bruh!
